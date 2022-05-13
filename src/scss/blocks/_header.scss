@@ -1,0 +1,8 @@
+header {
+    @include size (96%, false, false, 1000px);
+    margin: 0 auto;
+    padding: 20px 0 5px 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: coral;
+}
